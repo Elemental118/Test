@@ -20,6 +20,6 @@ h1 {
     text-shadow: 0 0 5px #007bff;
   }
   to {
-    text-shadow: 0 0 20px #007bff, 0 0 30px #007bff;
+    text-shadow: 0 0 50px #007bff, 0 0 50px #007bff;
   }
 }
